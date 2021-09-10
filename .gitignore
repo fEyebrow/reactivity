@@ -1,0 +1,6 @@
+dist
+.DS_Store
+.cache
+node_modules
+TODOs.md
+*.log
